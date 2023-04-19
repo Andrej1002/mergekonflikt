@@ -1,1 +1,1 @@
-# mergekonflikt
+# Kein Merge-Konfikt
